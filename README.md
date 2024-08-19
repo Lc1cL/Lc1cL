@@ -5,8 +5,10 @@
 <p align="left">Me he desempeñado en varios proyectos como desarrolladora Full-Stack pero mi mayor interés se encuentra en el área de Back-End. He encontrado facilidad a la hora de resolver conflictos y pensar en soluciones creativas para los retos que propone éste lado del desarrollo. <br><br>Me queda camino por recorrer y tecnologías por descubrir para ampliar mi conocimiento en el mundo del desarrollo, sin embargo ¡estoy dispuesta a investigar lenguajes y estudiar duro para crear los mejores proyectos posibles!</p>
 
 ###
+<p>.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   ..   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .</p>
+###
 
-<p align="left">I have worked on several projects as a Full-Stack developer but my greatest interest is in the Back-End area. I have found ease when it comes to resolving conflicts and thinking of creative solutions to the challenges posed by this side of software development.<br><br>I still have a way to go and technologies to discover to expand my knowledge in the world of development, however, I am willing to research languages ​​and study hard to create the best possible projects!</p>
+<p align="left">I have worked on several projects as a Full-Stack developer but my greatest interest is Back-End development. I have found ease when it comes to resolving conflicts and thinking of creative solutions to the challenges posed by this side of software development.<br><br>I still have a way to go and technologies to discover to expand my knowledge in the world of development, however, I am willing to research languages ​​and study hard to create the best possible projects!</p>
 
 ###
 
