@@ -2,12 +2,19 @@
 
 ###
 
+<p align="center">✲Español✲</p>
+
+###
+
 <p align="left">Me he desempeñado en varios proyectos como desarrolladora Full-Stack pero mi mayor interés se encuentra en el área de Back-End. He encontrado facilidad a la hora de resolver conflictos y pensar en soluciones creativas para los retos que propone éste lado del desarrollo. <br><br>Me queda camino por recorrer y tecnologías por descubrir para ampliar mi conocimiento en el mundo del desarrollo, sin embargo ¡estoy dispuesta a investigar lenguajes y estudiar duro para crear los mejores proyectos posibles!</p>
 
 ###
-<p>✲  ✲  ✲</p>
 
-<p align="left">I have worked on several projects as a Full-Stack developer but my greatest interest is Back-End development. I have found ease when it comes to resolving conflicts and thinking of creative solutions to the challenges posed by this side of software development.<br><br>I still have a way to go and technologies to discover to expand my knowledge in the world of development, however, I am willing to research languages ​​and study hard to create the best possible projects!</p>
+<h4 align="center">✲English✲</h4>
+
+###
+
+<p align="left">I have worked on several projects as a Full-Stack developer but my greatest interest is in the Back-End area. I have found ease when it comes to resolving conflicts and thinking of creative solutions to the challenges posed by this side of software development.<br><br>I still have a way to go and technologies to discover to expand my knowledge in the world of development, however, I am willing to research languages ​​and study hard to create the best possible projects!</p>
 
 ###
 
@@ -18,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="lolacamposcipo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -49,6 +56,8 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"  />
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"  />
+</div>
 
 ###
