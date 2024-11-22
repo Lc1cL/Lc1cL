@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Lola y soy desarrolladora de software de Argentina 🇦🇷 🧉 || Hello 👋! My name is Lola and i'm a software developer from Agrnetina 🇦🇷 🧉</h2>
+<h2 align="left">Hola 👋! Mi nombre es Lola y soy desarrolladora de software de Argentina 🇦🇷 🧉 || Hello 👋! My name is Lola and i'm a software developer from Argentina 🇦🇷 🧉</h2>
 
 ###
 
