@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">✲Español✲</p>
+<h4 align="center">✲Español✲</h4>
 
 ###
 
